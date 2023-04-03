@@ -1,0 +1,5 @@
+*{box-sizing: border-box;}
+html,body{margin: 0;padding: 0;all: initial;line-height: 1;}
+div,span,section,nav,colgrup{all: initial;display: inline-block;}
+h1,h2,h3,h4,h5,h6,p,a{all: initial;}
+ul,li,ol,dl,dt,dd{all: unset;}
